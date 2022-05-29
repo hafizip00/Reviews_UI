@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.bar {
+    background: rgb(60, 30, 233);
+    text-align: center;
+}
+.bar h1{
+    padding: 2em;
+}
+.container{
+    margin: 2.5em auto;
+    text-align: center;
+    width: 60%;
+    background: rgb(233, 220, 211);
+    box-shadow: 60px -16px teal;
+    border-radius: 1em;
+    padding: 1.5em 3em;
+    font-size: 1.5em;
+}
+.elements{
+    padding: 1em 1em;
+}
+#img, .img-div{
+    border-radius: 50%;
+}
+button{
+    padding: 1em 2.5em;
+    border-radius: 1.5em;
+    outline: none;
+    border-style: none;
+    margin: 1.5em;
+    background-color: rgb(68, 68, 156);
+}
